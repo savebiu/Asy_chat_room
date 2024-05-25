@@ -1,0 +1,14 @@
+D:\person\C#\asy_Server\asy_Server\bin\Debug\asy_Server.exe.config
+D:\person\C#\asy_Server\asy_Server\bin\Debug\asy_Server.exe
+D:\person\C#\asy_Server\asy_Server\bin\Debug\asy_Server.pdb
+D:\person\C#\asy_Server\asy_Server\obj\Debug\asy_Server.csproj.AssemblyReference.cache
+D:\person\C#\asy_Server\asy_Server\obj\Debug\asy_Server.csproj.CoreCompileInputs.cache
+D:\person\C#\asy_Server\asy_Server\obj\Debug\asy_Server.exe
+D:\person\C#\asy_Server\asy_Server\obj\Debug\asy_Server.pdb
+D:\person\unity\Asy_chat_room\asy_Server\asy_Server\bin\Debug\asy_Server.exe.config
+D:\person\unity\Asy_chat_room\asy_Server\asy_Server\bin\Debug\asy_Server.exe
+D:\person\unity\Asy_chat_room\asy_Server\asy_Server\bin\Debug\asy_Server.pdb
+D:\person\unity\Asy_chat_room\asy_Server\asy_Server\obj\Debug\asy_Server.csproj.AssemblyReference.cache
+D:\person\unity\Asy_chat_room\asy_Server\asy_Server\obj\Debug\asy_Server.csproj.CoreCompileInputs.cache
+D:\person\unity\Asy_chat_room\asy_Server\asy_Server\obj\Debug\asy_Server.exe
+D:\person\unity\Asy_chat_room\asy_Server\asy_Server\obj\Debug\asy_Server.pdb
